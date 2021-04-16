@@ -1,1 +1,1 @@
-# gregore-core.github.io
+# gregore
