@@ -17,9 +17,9 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "gregore"
 description:	       "art and stuff"
-author:              "grub"
+author:              "g0re"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
+# feed:
 #  path: rss-feed.xml
 
