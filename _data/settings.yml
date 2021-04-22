@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'words', folder: 'pages', file: 'words.html'}
+# - {name: 'words', folder: 'pages', file: 'words.html'}
 
 
 
